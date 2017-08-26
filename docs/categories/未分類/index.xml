@@ -20,50 +20,5 @@
       <description>不具合の現象 新規ノートA（ノートタイトル「HOGEHOGE」）を作成する。 1で作成したノートを検索する。「intitle:HOGEHOGE」</description>
     </item>
     
-    <item>
-      <title>test</title>
-      <link>https://marumi.nap.jp/blog/post/2017/0621-test/</link>
-      <pubDate>Sat, 29 Jul 2017 08:52:17 +0000</pubDate>
-      
-      <guid>https://marumi.nap.jp/blog/post/2017/0621-test/</guid>
-      <description> hoge hoho </description>
-    </item>
-    
-    <item>
-      <title>Dynalistをつかうなら、PowerPackが便利</title>
-      <link>https://marumi.nap.jp/blog/post/2017/0713-dynalist-powerpack/</link>
-      <pubDate>Thu, 13 Jul 2017 14:10:43 +0900</pubDate>
-      
-      <guid>https://marumi.nap.jp/blog/post/2017/0713-dynalist-powerpack/</guid>
-      <description>Dynalist をつかうなら、ユーザースクリプトの PowerPack をインストールするととても便利になります。 Dynalist PowerPack - Guides and examples Dynalist Forum のページ インストール 1 ユーザースクリプトマネ</description>
-    </item>
-    
-    <item>
-      <title>Dynalistのshare設定</title>
-      <link>https://marumi.nap.jp/blog/post/2017/0713-dynalist_share/</link>
-      <pubDate>Thu, 13 Jul 2017 11:36:43 +0900</pubDate>
-      
-      <guid>https://marumi.nap.jp/blog/post/2017/0713-dynalist_share/</guid>
-      <description>Dynalist </description>
-    </item>
-    
-    <item>
-      <title>BEM 命名規則</title>
-      <link>https://marumi.nap.jp/blog/post/2017/0630-bem-naming-conventions/</link>
-      <pubDate>Fri, 30 Jun 2017 13:40:26 +0900</pubDate>
-      
-      <guid>https://marumi.nap.jp/blog/post/2017/0630-bem-naming-conventions/</guid>
-      <description>BEMは「Block」「Element」「Modifier」の頭文字をとったもの Block(ブロック) 構成の「元」となる要素。 必ずトップに来</description>
-    </item>
-    
-    <item>
-      <title>Hugo の新しい記事を作成するスクリプト</title>
-      <link>https://marumi.nap.jp/blog/post/2017/0621-new-post-script/</link>
-      <pubDate>Wed, 21 Jun 2017 01:37:09 +0900</pubDate>
-      
-      <guid>https://marumi.nap.jp/blog/post/2017/0621-new-post-script/</guid>
-      <description>問題点 新しい記事を書く時に、 hugo new post/2016/0620-title.md とするのが面倒なので、シェルスクリプトで一発作成できるようにした。 「&amp;lsquo;hugo new&amp;rsqu</description>
-    </item>
-    
   </channel>
 </rss>

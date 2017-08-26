@@ -29,14 +29,5 @@
       <description>インストール brew install hugo バージョンアップ brew upgrade hugo 新たなhugoプロジェクトを作成。 hugo new site my_site cd my_site preview hugo server build hugo 記事作成 hugo new post/hugahoge.md ページ作成 hugo new page_name.md</description>
     </item>
     
-    <item>
-      <title>Hugo の新しい記事を作成するスクリプト</title>
-      <link>https://marumi.nap.jp/blog/post/2017/0621-new-post-script/</link>
-      <pubDate>Wed, 21 Jun 2017 01:37:09 +0900</pubDate>
-      
-      <guid>https://marumi.nap.jp/blog/post/2017/0621-new-post-script/</guid>
-      <description>問題点 新しい記事を書く時に、 hugo new post/2016/0620-title.md とするのが面倒なので、シェルスクリプトで一発作成できるようにした。 「&amp;lsquo;hugo new&amp;rsqu</description>
-    </item>
-    
   </channel>
 </rss>

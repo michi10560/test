@@ -6,24 +6,15 @@
     <description>Recent content in Tags on MARUMI blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 30 Jun 2017 13:40:26 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 25 Aug 2017 11:06:18 +0900</lastBuildDate>
     
 	<atom:link href="https://marumi.nap.jp/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Css</title>
-      <link>https://marumi.nap.jp/blog/tags/css/</link>
-      <pubDate>Fri, 30 Jun 2017 13:40:26 +0900</pubDate>
-      
-      <guid>https://marumi.nap.jp/blog/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Deskflowy</title>
       <link>https://marumi.nap.jp/blog/tags/deskflowy/</link>
-      <pubDate>Fri, 25 Aug 2017 19:23:42 +0900</pubDate>
+      <pubDate>Fri, 25 Aug 2017 11:06:18 +0900</pubDate>
       
       <guid>https://marumi.nap.jp/blog/tags/deskflowy/</guid>
       <description></description>
@@ -75,29 +66,11 @@
     </item>
     
     <item>
-      <title>Tool</title>
-      <link>https://marumi.nap.jp/blog/tags/tool/</link>
-      <pubDate>Wed, 21 Jun 2017 01:37:09 +0900</pubDate>
-      
-      <guid>https://marumi.nap.jp/blog/tags/tool/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Workflowy</title>
       <link>https://marumi.nap.jp/blog/tags/workflowy/</link>
       <pubDate>Mon, 21 Aug 2017 19:12:36 +0900</pubDate>
       
       <guid>https://marumi.nap.jp/blog/tags/workflowy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>シェルスクリプト</title>
-      <link>https://marumi.nap.jp/blog/tags/%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88/</link>
-      <pubDate>Wed, 21 Jun 2017 01:37:09 +0900</pubDate>
-      
-      <guid>https://marumi.nap.jp/blog/tags/%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88/</guid>
       <description></description>
     </item>
     
