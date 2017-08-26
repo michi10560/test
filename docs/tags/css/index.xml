@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Css on MARUMI blog</title>
+    <link>https://marumi.nap.jp/blog/tags/css/</link>
+    <description>Recent content in Css on MARUMI blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 30 Jun 2017 13:40:26 +0900</lastBuildDate>
+    
+	<atom:link href="https://marumi.nap.jp/blog/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BEM 命名規則</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0630-bem-naming-conventions/</link>
+      <pubDate>Fri, 30 Jun 2017 13:40:26 +0900</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0630-bem-naming-conventions/</guid>
+      <description>BEMは「Block」「Element」「Modifier」の頭文字をとったもの Block(ブロック) 構成の「元」となる要素。 必ずトップに来</description>
+    </item>
+    
+  </channel>
+</rss>

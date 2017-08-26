@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MARUMI blog</title>
+    <link>https://marumi.nap.jp/blog/</link>
+    <description>Recent content on MARUMI blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 25 Aug 2017 19:23:42 +0900</lastBuildDate>
+    
+	<atom:link href="https://marumi.nap.jp/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DeskFlowyのショートカットキー（一覧）</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0826-deskflowy_shortcutkey/</link>
+      <pubDate>Fri, 25 Aug 2017 19:23:42 +0900</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0826-deskflowy_shortcutkey/</guid>
+      <description>機能 macOS Windows1 備考 undo ⌘+Z redo ⌘+⇧+Z macOS版 メニュー 編集 Edit undo redo cut copy delete Copy URL &amp;amp;&amp;amp; Title submenu: [ { //label: LocaleFile.CopyUrl0, label: &amp;ldquo;Url&amp;rdquo;, accelerator: &amp;lsquo;CmdOrCtrl+K&amp;rsquo;, click: function(item, focusedWindow) { //if (focusedWindow)focusedWindow.webContents.executeJavaScript(&amp;lsquo;deskflowy.getUrl(0)&amp;rsquo;); if (focusedWindow){ focusedWindow.webContents.executeJavaScript(&amp;lsquo;deskflowy.fromMenu(&amp;ldquo;getUrl&amp;rdquo;,0)&amp;rsquo;); } } }, { //label: LocaleFile.CopyUrl3, label: &amp;lsquo;Url Title&amp;rsquo;, accelerator: &amp;lsquo;CmdOrCtrl+Shift+K&amp;rsquo;, click: function(item, focusedWindow)</description>
+    </item>
+    
+    <item>
+      <title>DeskFlowyの機能（ Move to ）</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0825-deskflowy_moveto/</link>
+      <pubDate>Fri, 25 Aug 2017 11:06:18 +0900</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0825-deskflowy_moveto/</guid>
+      <description>DeskFlowy のお気に入りの機能をご紹介します。 「Move to」です。 Move toとは 簡単に言うと「トピックをブックマークしてあるトピックの下に移動（Move</description>
+    </item>
+    
+    <item>
+      <title>DeskFlowyを公開します。</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0824-deskflowy_preview/</link>
+      <pubDate>Thu, 24 Aug 2017 19:00:00 +0900</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0824-deskflowy_preview/</guid>
+      <description>とりあえす、Mac版のみですが、DeskFlowyを公開します。 DeskFlowyとは DeskFlowy は WorkFlowy 専用のクライントソフトです。 WorkFlowy 本家にはない機能を</description>
+    </item>
+    
+    <item>
+      <title>WorkFlowyの項目を抽出して、左に表示する</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0821-workflowy_leftpanel/</link>
+      <pubDate>Mon, 21 Aug 2017 19:12:36 +0900</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0821-workflowy_leftpanel/</guid>
+      <description>とりあえず、サクッとつくってみました。 デザインは苦手なんで、お好みにスタイルを書き換えて下さい。 34行目にCSSを書けばOKです。 抽出に使う</description>
+    </item>
+    
+    <item>
+      <title>Evernoetの不具合。ノートの更新情報が検索結果に反映されるのが遅い。</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0820-problems_search_slow/</link>
+      <pubDate>Sun, 20 Aug 2017 20:36:25 +0900</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0820-problems_search_slow/</guid>
+      <description>不具合の現象 新規ノートA（ノートタイトル「HOGEHOGE」）を作成する。 1で作成したノートを検索する。「intitle:HOGEHOGE」</description>
+    </item>
+    
+    <item>
+      <title>HugoでGistのコードを埋め込む</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0819-hugo-gist/</link>
+      <pubDate>Sat, 19 Aug 2017 20:24:31 +0000</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0819-hugo-gist/</guid>
+      <description>参考 Hugo利用方法メモ</description>
+    </item>
+    
+    <item>
+      <title>Markdown サンプル</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0819-markdownsample/</link>
+      <pubDate>Sat, 19 Aug 2017 20:24:31 +0000</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0819-markdownsample/</guid>
+      <description>見出し 1個から6個シャープ 記述例 # 見出し1 ## 見出し2 ### 見出し3 #### 見出し4 ##### 見出し5 ###### 見出し6 表示例 見出し1 見出し2 見出し3 見出し4 見出し5 見</description>
+    </item>
+    
+    <item>
+      <title>hugoメモ</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0819-hugo/</link>
+      <pubDate>Sat, 19 Aug 2017 20:24:31 +0000</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0819-hugo/</guid>
+      <description>インストール brew install hugo バージョンアップ brew upgrade hugo 新たなhugoプロジェクトを作成。 hugo new site my_site cd my_site preview hugo server build hugo 記事作成 hugo new post/hugahoge.md ページ作成 hugo new page_name.md</description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0621-test/</link>
+      <pubDate>Sat, 29 Jul 2017 08:52:17 +0000</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0621-test/</guid>
+      <description> hoge hoho </description>
+    </item>
+    
+    <item>
+      <title>Dynalistをつかうなら、PowerPackが便利</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0713-dynalist-powerpack/</link>
+      <pubDate>Thu, 13 Jul 2017 14:10:43 +0900</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0713-dynalist-powerpack/</guid>
+      <description>Dynalist をつかうなら、ユーザースクリプトの PowerPack をインストールするととても便利になります。 Dynalist PowerPack - Guides and examples Dynalist Forum のページ インストール 1 ユーザースクリプトマネ</description>
+    </item>
+    
+    <item>
+      <title>Dynalistのshare設定</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0713-dynalist_share/</link>
+      <pubDate>Thu, 13 Jul 2017 11:36:43 +0900</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0713-dynalist_share/</guid>
+      <description>Dynalist </description>
+    </item>
+    
+    <item>
+      <title>BEM 命名規則</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0630-bem-naming-conventions/</link>
+      <pubDate>Fri, 30 Jun 2017 13:40:26 +0900</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0630-bem-naming-conventions/</guid>
+      <description>BEMは「Block」「Element」「Modifier」の頭文字をとったもの Block(ブロック) 構成の「元」となる要素。 必ずトップに来</description>
+    </item>
+    
+    <item>
+      <title>WorkFlowyの検索演算子</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0622-workflowy-search-operator/</link>
+      <pubDate>Thu, 22 Jun 2017 14:07:05 +0900</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0622-workflowy-search-operator/</guid>
+      <description>WorkFlowyの検索演算子一覧 演算子 (スペースでつなぐ) スペースで複数の単語をつなぐと、ANDになります。 例 検索 実験 「検索」と「実験」が</description>
+    </item>
+    
+    <item>
+      <title>Hugo の新しい記事を作成するスクリプト</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0621-new-post-script/</link>
+      <pubDate>Wed, 21 Jun 2017 01:37:09 +0900</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0621-new-post-script/</guid>
+      <description>問題点 新しい記事を書く時に、 hugo new post/2016/0620-title.md とするのが面倒なので、シェルスクリプトで一発作成できるようにした。 「&amp;lsquo;hugo new&amp;rsqu</description>
+    </item>
+    
+    <item>
+      <title>てすと</title>
+      <link>https://marumi.nap.jp/blog/post/hugahoge/</link>
+      <pubDate>Sun, 18 Jun 2017 01:30:29 +0900</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/hugahoge/</guid>
+      <description>テスト記事です。</description>
+    </item>
+    
+    <item>
+      <title>ほ</title>
+      <link>https://marumi.nap.jp/blog/ppp/</link>
+      <pubDate>Sun, 18 Jun 2017 01:25:15 +0900</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/ppp/</guid>
+      <description>あいうえお</description>
+    </item>
+    
+  </channel>
+</rss>

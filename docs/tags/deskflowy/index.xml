@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deskflowy on MARUMI blog</title>
+    <link>https://marumi.nap.jp/blog/tags/deskflowy/</link>
+    <description>Recent content in Deskflowy on MARUMI blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 25 Aug 2017 19:23:42 +0900</lastBuildDate>
+    
+	<atom:link href="https://marumi.nap.jp/blog/tags/deskflowy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DeskFlowyのショートカットキー（一覧）</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0826-deskflowy_shortcutkey/</link>
+      <pubDate>Fri, 25 Aug 2017 19:23:42 +0900</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0826-deskflowy_shortcutkey/</guid>
+      <description>機能 macOS Windows1 備考 undo ⌘+Z redo ⌘+⇧+Z macOS版 メニュー 編集 Edit undo redo cut copy delete Copy URL &amp;amp;&amp;amp; Title submenu: [ { //label: LocaleFile.CopyUrl0, label: &amp;ldquo;Url&amp;rdquo;, accelerator: &amp;lsquo;CmdOrCtrl+K&amp;rsquo;, click: function(item, focusedWindow) { //if (focusedWindow)focusedWindow.webContents.executeJavaScript(&amp;lsquo;deskflowy.getUrl(0)&amp;rsquo;); if (focusedWindow){ focusedWindow.webContents.executeJavaScript(&amp;lsquo;deskflowy.fromMenu(&amp;ldquo;getUrl&amp;rdquo;,0)&amp;rsquo;); } } }, { //label: LocaleFile.CopyUrl3, label: &amp;lsquo;Url Title&amp;rsquo;, accelerator: &amp;lsquo;CmdOrCtrl+Shift+K&amp;rsquo;, click: function(item, focusedWindow)</description>
+    </item>
+    
+    <item>
+      <title>DeskFlowyの機能（ Move to ）</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0825-deskflowy_moveto/</link>
+      <pubDate>Fri, 25 Aug 2017 11:06:18 +0900</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0825-deskflowy_moveto/</guid>
+      <description>DeskFlowy のお気に入りの機能をご紹介します。 「Move to」です。 Move toとは 簡単に言うと「トピックをブックマークしてあるトピックの下に移動（Move</description>
+    </item>
+    
+    <item>
+      <title>DeskFlowyを公開します。</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0824-deskflowy_preview/</link>
+      <pubDate>Thu, 24 Aug 2017 19:00:00 +0900</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0824-deskflowy_preview/</guid>
+      <description>とりあえす、Mac版のみですが、DeskFlowyを公開します。 DeskFlowyとは DeskFlowy は WorkFlowy 専用のクライントソフトです。 WorkFlowy 本家にはない機能を</description>
+    </item>
+    
+  </channel>
+</rss>

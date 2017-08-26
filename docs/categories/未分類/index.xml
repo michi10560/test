@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>未分類 on MARUMI blog</title>
+    <link>https://marumi.nap.jp/blog/categories/%E6%9C%AA%E5%88%86%E9%A1%9E/</link>
+    <description>Recent content in 未分類 on MARUMI blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 20 Aug 2017 20:36:25 +0900</lastBuildDate>
+    
+	<atom:link href="https://marumi.nap.jp/blog/categories/%E6%9C%AA%E5%88%86%E9%A1%9E/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Evernoetの不具合。ノートの更新情報が検索結果に反映されるのが遅い。</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0820-problems_search_slow/</link>
+      <pubDate>Sun, 20 Aug 2017 20:36:25 +0900</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0820-problems_search_slow/</guid>
+      <description>不具合の現象 新規ノートA（ノートタイトル「HOGEHOGE」）を作成する。 1で作成したノートを検索する。「intitle:HOGEHOGE」</description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0621-test/</link>
+      <pubDate>Sat, 29 Jul 2017 08:52:17 +0000</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0621-test/</guid>
+      <description> hoge hoho </description>
+    </item>
+    
+    <item>
+      <title>Dynalistをつかうなら、PowerPackが便利</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0713-dynalist-powerpack/</link>
+      <pubDate>Thu, 13 Jul 2017 14:10:43 +0900</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0713-dynalist-powerpack/</guid>
+      <description>Dynalist をつかうなら、ユーザースクリプトの PowerPack をインストールするととても便利になります。 Dynalist PowerPack - Guides and examples Dynalist Forum のページ インストール 1 ユーザースクリプトマネ</description>
+    </item>
+    
+    <item>
+      <title>Dynalistのshare設定</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0713-dynalist_share/</link>
+      <pubDate>Thu, 13 Jul 2017 11:36:43 +0900</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0713-dynalist_share/</guid>
+      <description>Dynalist </description>
+    </item>
+    
+    <item>
+      <title>BEM 命名規則</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0630-bem-naming-conventions/</link>
+      <pubDate>Fri, 30 Jun 2017 13:40:26 +0900</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0630-bem-naming-conventions/</guid>
+      <description>BEMは「Block」「Element」「Modifier」の頭文字をとったもの Block(ブロック) 構成の「元」となる要素。 必ずトップに来</description>
+    </item>
+    
+    <item>
+      <title>Hugo の新しい記事を作成するスクリプト</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0621-new-post-script/</link>
+      <pubDate>Wed, 21 Jun 2017 01:37:09 +0900</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0621-new-post-script/</guid>
+      <description>問題点 新しい記事を書く時に、 hugo new post/2016/0620-title.md とするのが面倒なので、シェルスクリプトで一発作成できるようにした。 「&amp;lsquo;hugo new&amp;rsqu</description>
+    </item>
+    
+  </channel>
+</rss>

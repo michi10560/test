@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tool on MARUMI blog</title>
+    <link>https://marumi.nap.jp/blog/categories/tool/</link>
+    <description>Recent content in Tool on MARUMI blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 19 Aug 2017 20:24:31 +0000</lastBuildDate>
+    
+	<atom:link href="https://marumi.nap.jp/blog/categories/tool/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hugoメモ</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0819-hugo/</link>
+      <pubDate>Sat, 19 Aug 2017 20:24:31 +0000</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0819-hugo/</guid>
+      <description>インストール brew install hugo バージョンアップ brew upgrade hugo 新たなhugoプロジェクトを作成。 hugo new site my_site cd my_site preview hugo server build hugo 記事作成 hugo new post/hugahoge.md ページ作成 hugo new page_name.md</description>
+    </item>
+    
+  </channel>
+</rss>

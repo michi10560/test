@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on MARUMI blog</title>
+    <link>https://marumi.nap.jp/blog/tags/hugo/</link>
+    <description>Recent content in Hugo on MARUMI blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 19 Aug 2017 20:24:31 +0000</lastBuildDate>
+    
+	<atom:link href="https://marumi.nap.jp/blog/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HugoでGistのコードを埋め込む</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0819-hugo-gist/</link>
+      <pubDate>Sat, 19 Aug 2017 20:24:31 +0000</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0819-hugo-gist/</guid>
+      <description>参考 Hugo利用方法メモ</description>
+    </item>
+    
+    <item>
+      <title>hugoメモ</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0819-hugo/</link>
+      <pubDate>Sat, 19 Aug 2017 20:24:31 +0000</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0819-hugo/</guid>
+      <description>インストール brew install hugo バージョンアップ brew upgrade hugo 新たなhugoプロジェクトを作成。 hugo new site my_site cd my_site preview hugo server build hugo 記事作成 hugo new post/hugahoge.md ページ作成 hugo new page_name.md</description>
+    </item>
+    
+    <item>
+      <title>Hugo の新しい記事を作成するスクリプト</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0621-new-post-script/</link>
+      <pubDate>Wed, 21 Jun 2017 01:37:09 +0900</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0621-new-post-script/</guid>
+      <description>問題点 新しい記事を書く時に、 hugo new post/2016/0620-title.md とするのが面倒なので、シェルスクリプトで一発作成できるようにした。 「&amp;lsquo;hugo new&amp;rsqu</description>
+    </item>
+    
+  </channel>
+</rss>

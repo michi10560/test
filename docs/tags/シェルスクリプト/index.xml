@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>シェルスクリプト on MARUMI blog</title>
+    <link>https://marumi.nap.jp/blog/tags/%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88/</link>
+    <description>Recent content in シェルスクリプト on MARUMI blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 21 Jun 2017 01:37:09 +0900</lastBuildDate>
+    
+	<atom:link href="https://marumi.nap.jp/blog/tags/%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo の新しい記事を作成するスクリプト</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0621-new-post-script/</link>
+      <pubDate>Wed, 21 Jun 2017 01:37:09 +0900</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0621-new-post-script/</guid>
+      <description>問題点 新しい記事を書く時に、 hugo new post/2016/0620-title.md とするのが面倒なので、シェルスクリプトで一発作成できるようにした。 「&amp;lsquo;hugo new&amp;rsqu</description>
+    </item>
+    
+  </channel>
+</rss>
