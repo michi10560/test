@@ -17,7 +17,7 @@
       <pubDate>Sat, 19 Aug 2017 20:24:31 +0000</pubDate>
       
       <guid>https://marumi.nap.jp/blog/post/2017/0819-hugo-gist/</guid>
-      <description>参考 Hugo利用方法メモ</description>
+      <description>デフォルトのShortcodesにあった。 利用方法は {{&amp;lt; gist username gist_ID &amp;gt;}} または、ファイルを指定する場合は、ファイル名を&amp;rdquo;&amp;ldquo;で括</description>
     </item>
     
   </channel>

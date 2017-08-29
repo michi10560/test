@@ -6,10 +6,19 @@
     <description>Recent content in Deskflowy on MARUMI blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 25 Aug 2017 11:06:18 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 29 Aug 2017 19:23:42 +0900</lastBuildDate>
     
 	<atom:link href="https://marumi.nap.jp/blog/tags/deskflowy/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DeskFlowyのショートカットキー（その1）</title>
+      <link>https://marumi.nap.jp/blog/post/2017/0829-deskflowy_shortcutkey1/</link>
+      <pubDate>Tue, 29 Aug 2017 19:23:42 +0900</pubDate>
+      
+      <guid>https://marumi.nap.jp/blog/post/2017/0829-deskflowy_shortcutkey1/</guid>
+      <description>DeskFlowyのショートカットキーをご紹介します。 殆どの物は、メニューを表示させると、横にショートカットキーが表示されるので、それで知る</description>
+    </item>
     
     <item>
       <title>DeskFlowyの機能（ Move to ）</title>

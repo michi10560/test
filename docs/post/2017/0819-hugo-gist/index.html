@@ -16,7 +16,7 @@
 
 <meta name="generator" content="Hugo 0.23" />
 <meta property="og:title" content="HugoでGistのコードを埋め込む" />
-<meta property="og:description" content="参考 Hugo利用方法メモ" />
+<meta property="og:description" content="デフォルトのShortcodesにあった。 利用方法は {{&lt; gist username gist_ID &gt;}} または、ファイルを指定する場合は、ファイル名を&rdquo;&ldquo;で括" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://marumi.nap.jp/blog/post/2017/0819-hugo-gist/" />
 
@@ -91,11 +91,22 @@ ga('send', 'pageview');
 			</p>
 		</header>
 		<div class="post__content clearfix">
-			
+			<p>デフォルトのShortcodesにあった。</p>
 
-<h2 id="参考">参考</h2>
+<p>利用方法は</p>
 
-<p><a href="https://mike-neko.github.io/blog/hugo-memo/#gist埋め込みコードを設定">Hugo利用方法メモ</a></p>
+<p><code>
+{{&lt; gist username gist_ID &gt;}}
+</code></p>
+
+<p>または、ファイルを指定する場合は、ファイル名を&rdquo;&ldquo;で括って</p>
+
+<p><code>
+{{&lt; gist username gist_ID &ldquo;File Name&rdquo; &gt;}}
+</code></p>
+
+<p>参考：
+<a href="https://gohugo.io/content-management/shortcodes/#gist">Hugo | Shortcodes</a></p>
 
 		</div>
 		
@@ -203,6 +214,7 @@ ga('send', 'pageview');
 	<h4 class="widget__title">Recent Posts</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/blog/post/2017/0829-deskflowy_shortcutkey1/">DeskFlowyのショートカットキー（その1）</a></li>
 			<li class="widget__item"><a class="widget__link" href="/blog/post/2017/0825-deskflowy_moveto/">DeskFlowyの機能（ Move to ）</a></li>
 			<li class="widget__item"><a class="widget__link" href="/blog/post/2017/0824-deskflowy_preview/">DeskFlowyを公開します。</a></li>
 			<li class="widget__item"><a class="widget__link" href="/blog/post/2017/0821-workflowy_leftpanel/">WorkFlowyの項目を抽出して、左に表示する</a></li>
